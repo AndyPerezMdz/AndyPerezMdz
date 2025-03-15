@@ -27,8 +27,8 @@ Siempre aprendiendo nuevas tecnologías y explorando el mundo de la programació
 
 ## <img src="https://i.pinimg.com/originals/4c/aa/74/4caa74ad64a3a14f8db4d3e9dea667b1.gif" width="25"> Proyectos  
 
-- **[Aplicación Web](https://github.com/AndyPerezMdz/HolidayInnExpressMovil)** - Plataforma de administración para la empresa.  
-- **[Aplicación Móvil](https://github.com/AndyPerezMdz/Holiday-inn-express)** - Aplicación para empleados.  
+- **[Aplicación Web](https://github.com/AndyPerezMdz/Holiday-inn-express)** - Plataforma de administración para la empresa.  
+- **[Aplicación Móvil](https://github.com/AndyPerezMdz/HolidayInnExpressMovil)** - Aplicación para empleados.  
 
 ---
 
