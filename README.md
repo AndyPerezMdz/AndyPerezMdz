@@ -37,3 +37,8 @@ Siempre aprendiendo nuevas tecnologías y explorando el mundo de la programació
 
 
 _Siempre abierto a nuevas oportunidades y colaboraciones._  
+
+
+<div align="center">
+  <img src="https://media.giphy.com/media/SLzTKcrlgzH7iWEnWw/giphy.gif?cid=790b76111qqwuyyb6xl9skupel1uwf7bmvyuodv6o1l2v3nb&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="120px" style="border-radius: 20px;"/>
+</div>
