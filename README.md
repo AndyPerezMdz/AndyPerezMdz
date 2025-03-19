@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/SVxRQOgysVEDHPG6fy/giphy.gif" width="120px" style="border-radius: 20px;"/>
+  <img src="https://media.giphy.com/media/l1BgR0rBqjUtgCKre/giphy.gif?cid=790b7611het4syjajspvyh39ivm4u07y3t3pe3g1o79edruu&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="120px" style="border-radius: 20px;"/>
 </div>
 
 # ¡Hola! Soy Andrés Pérez  
