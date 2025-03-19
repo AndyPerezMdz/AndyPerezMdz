@@ -52,4 +52,4 @@ Siempre aprendiendo nuevas tecnologías y explorando el mundo de la programació
   <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" /></code>
   <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" /></code>
   <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" /></code>
-  <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postg
+</p>
