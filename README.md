@@ -29,8 +29,11 @@ Siempre aprendiendo nuevas tecnologías y explorando el mundo de la programació
 
 - **[Aplicación Web](https://github.com/AndyPerezMdz/Holiday-inn-express)** - Plataforma de administración para la empresa.
 - **[Aplicación Móvil](https://github.com/AndyPerezMdz/HolidayInnExpressMovil)** - Aplicación para empleados.
-      1. [demo](https://andyperezmdz.github.io/HolidayInnExpressMovil/)
-      2. [apk](https://www.mediafire.com/file/2r9hxpmfkkqm005/HolidayInnExpressAplicacion.apk/file)
+
+## <img src="https://cdn.dribbble.com/userupload/21055699/file/original-76a3d43802bd597edd091070dfcc283e.gif" width="25"> Archivos  
+
+1. [demo](https://andyperezmdz.github.io/HolidayInnExpressMovil/)
+2. [apk](https://www.mediafire.com/file/2r9hxpmfkkqm005/HolidayInnExpressAplicacion.apk/file)
 
 ---
 
